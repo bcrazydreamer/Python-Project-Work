@@ -1,5 +1,3 @@
-from pips import *
-'''
 from tkinter import *
 import urllib.request, urllib.parse, urllib.error
 import lxml.html
@@ -11,7 +9,6 @@ from bs4 import BeautifulSoup
 import re
 import webbrowser
 import csv
-'''
 root=Tk()
 root.geometry("1200x600")
 root.state('zoomed')
